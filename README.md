@@ -28,6 +28,6 @@ cd REPO_NAME
 https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 ```
 
-#Open a jupyter Notebook in the current folder and run the script
+# Open a jupyter Notebook in the current folder and run the script
 
 
